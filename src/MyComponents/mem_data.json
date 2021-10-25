@@ -1,0 +1,36 @@
+[
+    {
+        "id":1,
+    "name":"Mustafa Usmani",
+    "role":"President",
+    "mem_image":"./exec/chairperson.jpg"
+    },
+    {
+        "id":2,
+    "name":"Muhammad Faseeh",
+    "role":"Vice President",
+    "mem_image":"./exec/vp.jpg"
+
+    },
+    {
+        "id":3,
+        "name":"Muhammad Naeem",
+    "role":"General Secretary",
+    "mem_image":"./exec/generalSec.jpg"
+
+    },
+    {
+        "id":4,
+        "name":"Kanwar Ram",
+    "role":"Treasurer",
+    "mem_image":"./exec/treasurer.jpg"
+
+    },
+    {
+        "id":5,
+        "name":"Usman Yousuf",
+    "role":"Media & Promotions Head",
+    "mem_image":"./exec/MnpHead.jpg"
+
+    }
+]

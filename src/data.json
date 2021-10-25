@@ -1,0 +1,13 @@
+[
+{
+    "id":1,
+    "name":"DEV DAY",
+    "date":"MARCH 2022  ",
+    "imgsrc":"./devday.jpg"
+  },
+  {
+    "id":2,"name":"CODERSCUP ",
+    "date":"OCTOBER 2021  ",
+    "imgsrc":"./codercup.jpg"
+  }
+]

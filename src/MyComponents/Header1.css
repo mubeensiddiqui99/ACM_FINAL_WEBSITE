@@ -1,0 +1,79 @@
+.homepg{
+    margin-top: 10px;
+    margin-left: 3rem;
+    color:#0E4870;
+    /* font-family: 'valorant'; */
+    font-size: 70px;
+  }
+
+.homepg-slider{
+  text-align: center;
+  font-size: 50px;
+  /* font-family: 'valorant'; */
+  color:#0E4870;
+}
+/*
+  @font-face {
+    font-family: 'valorant';
+    src: url(/acm/src/fonts/Valorant\ Font.ttf);
+    font-style:normal;
+    font-weight:100;
+  }
+
+  h1{
+    font-family: 'valorant';
+  }*/
+  
+  
+  .textbox {
+    background-color: none;
+    margin-top: 1px;
+    margin-left: 3rem;
+    margin-right: 3rem;
+    font-size: 15px;
+    font-weight:none;
+    border:none;
+    border-radius: 10px;
+    color:#000000;
+    /*font-family: 'valorant',sans-serif;*/
+    /* font-family:'valorant'; */
+    /*border:5px solid rgb(89, 199, 243);*/
+  }
+  .textbox :hover
+  {
+    border:black;
+  }
+  
+  .style1 {
+    color: rgb(3, 3, 100);
+    /* font-family: "VALORANT", sans-serif; */
+    font-size: 4rem;
+    margin-top: 5rem;
+  
+    text-align: center;
+  }
+
+  .container
+  {
+    display:grid;
+    grid-gap:10px;
+    margin-top:0px;
+    margin-left:75px;
+    padding-left:25px;
+    grid-template-columns: 1fr 1fr auto;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    margin-bottom:1rem;
+  }
+  .imgg{
+    margin-left:0px;
+    margin-right: 0px;
+  }
+  .imgprop{
+    margin-top:0px;
+    padding-right: 0px;
+    height: 100%;
+    width: 110%;
+    border-radius: 40px;
+  }

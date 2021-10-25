@@ -1,0 +1,37 @@
+.team{
+    color:#0c3f61;
+    font-size:3rem;
+}
+.imgmem{
+    border-color: #0c3f61!important;
+}
+.card12{
+    /* border-radius: 3%!important; */
+    margin-top: auto;
+    width:18rem;
+    height: auto;
+    margin-left:auto;
+}
+.card12:hover{
+    background-color:#5DA1CD;
+}
+.card-title{
+    color: #000000;
+
+}
+.card-body12{
+    padding:3rem 0!important;
+    background-color:#0E4870;
+    font-weight: bolder;
+}
+.card-text12{
+    font-size: 1.2rem;
+    color:#7d9099;
+    height: 0.6rem;
+}
+.exec{
+    color:#0E4870;
+    text-align: left!important;
+    padding-left: 2%;
+    font-size:2rem;
+}
