@@ -59,7 +59,7 @@ const Header1 = () => {
 
             {/*===============upcoming====events===SLIDER===========*/}
             <div>
-                <h2 className="homepg-slider">Upcoming Events</h2>
+                <h2 className="homepg-slider flex-wrap" style={{textAlign:"left",marginLeft:"9rem"}}>Upcoming Events</h2>
                 <br/>
                 <br/>
                 <div >
