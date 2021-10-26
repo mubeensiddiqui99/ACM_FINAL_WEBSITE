@@ -4,7 +4,7 @@ import ACMFINAL from "../../images/ACM FINAL.png";
 import Carousel from "react-multi-carousel";
 import "react-multi-carousel/lib/styles.css";
 import data from "../../data.json";
-import { events as EL } from "../events";
+import { events as EL } from "./events";
 
 const responsive = {
   superLargeDesktop: {
