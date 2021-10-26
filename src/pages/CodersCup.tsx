@@ -1,9 +1,9 @@
 import React from "react";
 
 import "bootstrap/dist/css/bootstrap.min.css";
-import CodersCupMain from "../Components/CodersCupMain";
-import CodersCupHouseCard from "../Components/CodersCupHouseCard";
-import CodersCupSponsor from "../Components/CodersCupSponsor";
+import CodersCupMain from "../Components/CodersCup/CodersCupMain";
+import CodersCupHouseCard from "../Components/CodersCup/CodersCupHouseCard";
+import CodersCupSponsor from "../Components/CodersCup/CodersCupSponsor";
 
 function CodersCup() {
   return (

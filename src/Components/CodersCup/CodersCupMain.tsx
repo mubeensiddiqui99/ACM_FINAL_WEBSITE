@@ -1,6 +1,6 @@
 import React from "react";
 import "./CodersCupMain.css";
-import acmImg from "../images/acm.svg";
+import acmImg from "../../images/acm.svg";
 
 const CodersCupMain = () => {
   const redirect = () => {

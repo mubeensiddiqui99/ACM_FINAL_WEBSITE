@@ -1,9 +1,9 @@
 import React from "react";
 import "./CodersCupHouseCard.css";
-import ContollerImg from "../images/Omen_(Full12).png";
-import SentinelImg from "../images/Cypher_artwork.png";
-import InitiatorImg from "../images/Sova_artwork.png";
-import DuelistImg from "../images/V_AGENTS_587x900_Jett.png";
+import ContollerImg from "../../images/Omen_(Full12).png";
+import SentinelImg from "../../images/Cypher_artwork.png";
+import InitiatorImg from "../../images/Sova_artwork.png";
+import DuelistImg from "../../images/V_AGENTS_587x900_Jett.png";
 const CodersCupHouseCard = () => {
   return (
     <>
