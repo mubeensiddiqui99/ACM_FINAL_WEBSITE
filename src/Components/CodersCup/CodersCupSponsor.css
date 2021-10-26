@@ -1,4 +1,4 @@
-.sponser {
+.sponsor {
   color: #0e4870;
   font-family: "VALORANT", sans-serif;
   font-size: 5rem;
@@ -11,7 +11,7 @@
 }
 
 @media (max-width: 500px) {
-  .sponser {
+  .sponsor {
     color: #0e4870;
     font-family: "VALORANT", sans-serif;
     font-size: 4rem;
