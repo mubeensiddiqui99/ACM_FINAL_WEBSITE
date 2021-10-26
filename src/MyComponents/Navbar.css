@@ -18,10 +18,10 @@ nav ul li {
   display: inline-block;
   line-height: 80px;
   margin: 0 5px;
-  color:#0E4870;
+  color: #0e4870;
 }
 nav ul li a {
-  color: #0E4870  !important;
+  color: #0e4870 !important;
   font-size: 17px;
   padding: 7px 13px;
   /* font-family: 'valorant'; */
@@ -30,22 +30,17 @@ nav ul li a {
 
 nav ul li a:hover {
   /*background: #445b6d;*/
-  color: #2890c4 !important;;
-  text-transform:underline !important;
-}
-
-nav ul li a:active{
+  color: #2890c4 !important;
   text-transform: underline !important;
-  
 }
 
+nav ul li a:active {
+  text-transform: underline !important;
+}
 
-
-.logosize
-{
-  margin-top:0px;
+.logosize {
+  margin-top: 0px;
   margin-left: 60px;
   height: 160px;
   width: 160px;
 }
-

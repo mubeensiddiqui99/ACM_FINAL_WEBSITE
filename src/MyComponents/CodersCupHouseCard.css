@@ -1,39 +1,39 @@
 .housecardstyle {
-    display: flex;
+  display: flex;
+  margin-bottom: 10%;
+  margin-left: 1%;
+  margin-top: 10%;
+  margin-right: -10%;
+}
+.card {
+  margin-left: 30px;
+  max-width: 20%;
+  border: 0;
+}
+
+h5 {
+  /* color: rgb(3, 3, 100); */
+  color: #0e4870;
+  font-family: "VALORANT", sans-serif;
+  font-size: 2rem;
+}
+.more-info {
+  display: none;
+  transition: all ease 0.5s;
+}
+a:hover .more-info {
+  display: block;
+  transition: all ease 0.5s;
+}
+@media (max-width: 500px) {
+  .housecardstyle {
+    display: block;
     margin-bottom: 10%;
     margin-left: 1%;
     margin-top: 10%;
-    margin-right:-10%;
   }
   .card {
-    margin-left: 30px;
-    max-width: 20%;
-    border: 0;
+    margin-left: auto;
+    max-width: 100%;
   }
-  
-  h5 {
-    /* color: rgb(3, 3, 100); */
-    color: #0e4870;
-    font-family: "VALORANT", sans-serif;
-    font-size: 2rem;
-  }
-  .more-info {
-    display: none;
-    transition: all ease 0.5s;
-  }
-  a:hover .more-info {
-    display: block;
-    transition: all ease 0.5s;
-  }
-  @media (max-width: 500px) {
-    .housecardstyle {
-      display: block;
-      margin-bottom: 10%;
-      margin-left: 1%;
-      margin-top: 10%;
-    }
-    .card {
-      margin-left: auto;
-      max-width: 100%;
-    }
-  }
+}

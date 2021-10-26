@@ -1,25 +1,25 @@
 .sponser {
+  color: #0e4870;
+  font-family: "VALORANT", sans-serif;
+  font-size: 5rem;
+  margin-top: 5rem;
+  text-align: center;
+}
+.img1 {
+  display: flex;
+  margin-left: 35%;
+}
+
+@media (max-width: 500px) {
+  .sponser {
     color: #0e4870;
     font-family: "VALORANT", sans-serif;
-    font-size: 5rem;
+    font-size: 4rem;
     margin-top: 5rem;
     text-align: center;
   }
   .img1 {
     display: flex;
-    margin-left: 35%;
+    margin-left: auto;
   }
-  
-  @media (max-width: 500px) {
-    .sponser {
-      color: #0e4870;
-      font-family: "VALORANT", sans-serif;
-      font-size: 4rem;
-      margin-top: 5rem;
-      text-align: center;
-    }
-    .img1 {
-      display: flex;
-      margin-left: auto;
-    }
-  }
+}

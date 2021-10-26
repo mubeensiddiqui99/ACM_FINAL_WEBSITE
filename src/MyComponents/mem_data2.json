@@ -1,140 +1,140 @@
 [
-    {
-    "id":1,
-    "name":"Iqra Arshad",
-    "role":"Head Public Relations",
-    "mem_image":"./extend/1.jpg"
-    },
-    {
-    "id":2,
-    "name":"Humna Waqar",
-    "role":"Co-Head Public Relations",
-    "mem_image":"./extend/2.jpg"
-    },
-    {
-    "id":3,
-    "name":"Ibadullah Shaikh",
-    "role":"Co-Head Media & Promotions",
-    "mem_image":"./extend/3.jpg"
-    },
-    {
-    "id":4,
-    "name":"Hassan Tariq",
-    "role":"Head Guest Relations",
-    "mem_image":"./extend/4.jpg"
-    },
-    {
-    "id":5,
-    "name":"Saad Ali",
-    "role":"Co-Head Guest Relations",
-    "mem_image":"./extend/5.jpg"
-    },
-    {
-    "id":6,
-    "name":"Ismail Chaudhry",
-    "role":"Head Event Management",
-    "mem_image":"./extend/6.jpg"
-    },
-    {
-    "id":7,
-    "name":"M Shaheer Khan",
-    "role":"Co-Head Event Management(External)",
-    "mem_image":"./extend/7.jpg"
-    },
-    {
-    "id":8,
-    "name":"Syed Muhammad Mahad",
-    "role":"Co-head Event Management(Internal)",
-    "mem_image":"./extend/8.jpg"
-    },
-    {
-    "id":9,
-    "name":"Annus Hashmi",
-    "role":"Head Marketing",
-    "mem_image":"./extend/9.jpg"
-    },
-    {
-    "id":10,
-    "name":"Mahad",
-    "role":"Co-Head Marketing",
-    "mem_image":"./extend/10.jpg"
-    },
-    {
-    "id":11,
-    "name":"Arzaan Ul Mairaj",
-    "role":"Head Content",
-    "mem_image":"./extend/11.jpg"
-    },
-    {
-    "id":12,
-    "name":"Midhat Karim",
-    "role":"Co-Head Content",
-    "mem_image":"./extend/12.jpg"
-    },
-    {
-    "id":13,
-    "name":"Syed Muhammad Faizan",
-    "role":"Head Design",
-    "mem_image":"./extend/13.jpg"
-    },
-    {
-    "id":14,
-    "name":"Musaib Ahmed",
-    "role":"Co-Head Design",
-    "mem_image":"./extend/14.jpg"
-    },
-    {
-    "id":15,
-    "name":"Abdullah Muzaffar",
-    "role":"Head Web & App Dev",
-    "mem_image":"./extend/15.jpg"
-    },
-    {
-    "id":16,
-    "name":"Ahmed Raza",
-    "role":"Co-Head Web & App Dev(Technical)",
-    "mem_image":"./extend/16.jpg"
-    },
-    {
-    "id":17,
-    "name":"Sana Kamal",
-    "role":"Co-Head Web & App(UI UX)",
-    "mem_image":"./extend/17.jpg"
-    },
-    {
-    "id":18,
-    "name":"Ahmed Usman",
-    "role":"Head IN House Media",
-    "mem_image":"./extend/18.jpg"
-    },
-    {
-    "id":19,
-    "name":"Sammam Sohail",
-    "role":"Co-Head IN House Media",
-    "mem_image":"./extend/19.jpg"
-    },
-    {
-    "id":20,
-    "name":"Muhammad Ahmed",
-    "role":"Mentor Training & Mentorship",
-    "mem_image":"./extend/20.jpg"
-    },
-    {
-    "id":21,
-    "name":"Zohaib Yousuf",
-    "role":"Head Training & Mentorship",
-    "mem_image":"./extend/21.jpg"
-    },
-    {
-    "id":22,
-    "name":"Aadesh Kumar",
-    "role":"Co-head Training & Mentorship",
-    "mem_image":"./extend/22.jpg"
-    },
-    {
-    "id":23,
-    "name":"Muhammad Haider Ali",
-    "role":"Head SOP compliance",
-    "mem_image":"./extend/23.jpg"
-    }
- ]
+  {
+    "id": 1,
+    "name": "Iqra Arshad",
+    "role": "Head Public Relations",
+    "mem_image": "./extend/1.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Humna Waqar",
+    "role": "Co-Head Public Relations",
+    "mem_image": "./extend/2.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Ibadullah Shaikh",
+    "role": "Co-Head Media & Promotions",
+    "mem_image": "./extend/3.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Hassan Tariq",
+    "role": "Head Guest Relations",
+    "mem_image": "./extend/4.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Saad Ali",
+    "role": "Co-Head Guest Relations",
+    "mem_image": "./extend/5.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Ismail Chaudhry",
+    "role": "Head Event Management",
+    "mem_image": "./extend/6.jpg"
+  },
+  {
+    "id": 7,
+    "name": "M Shaheer Khan",
+    "role": "Co-Head Event Management(External)",
+    "mem_image": "./extend/7.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Syed Muhammad Mahad",
+    "role": "Co-head Event Management(Internal)",
+    "mem_image": "./extend/8.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Annus Hashmi",
+    "role": "Head Marketing",
+    "mem_image": "./extend/9.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Mahad",
+    "role": "Co-Head Marketing",
+    "mem_image": "./extend/10.jpg"
+  },
+  {
+    "id": 11,
+    "name": "Arzaan Ul Mairaj",
+    "role": "Head Content",
+    "mem_image": "./extend/11.jpg"
+  },
+  {
+    "id": 12,
+    "name": "Midhat Karim",
+    "role": "Co-Head Content",
+    "mem_image": "./extend/12.jpg"
+  },
+  {
+    "id": 13,
+    "name": "Syed Muhammad Faizan",
+    "role": "Head Design",
+    "mem_image": "./extend/13.jpg"
+  },
+  {
+    "id": 14,
+    "name": "Musaib Ahmed",
+    "role": "Co-Head Design",
+    "mem_image": "./extend/14.jpg"
+  },
+  {
+    "id": 15,
+    "name": "Abdullah Muzaffar",
+    "role": "Head Web & App Dev",
+    "mem_image": "./extend/15.jpg"
+  },
+  {
+    "id": 16,
+    "name": "Ahmed Raza",
+    "role": "Co-Head Web & App Dev(Technical)",
+    "mem_image": "./extend/16.jpg"
+  },
+  {
+    "id": 17,
+    "name": "Sana Kamal",
+    "role": "Co-Head Web & App(UI UX)",
+    "mem_image": "./extend/17.jpg"
+  },
+  {
+    "id": 18,
+    "name": "Ahmed Usman",
+    "role": "Head IN House Media",
+    "mem_image": "./extend/18.jpg"
+  },
+  {
+    "id": 19,
+    "name": "Sammam Sohail",
+    "role": "Co-Head IN House Media",
+    "mem_image": "./extend/19.jpg"
+  },
+  {
+    "id": 20,
+    "name": "Muhammad Ahmed",
+    "role": "Mentor Training & Mentorship",
+    "mem_image": "./extend/20.jpg"
+  },
+  {
+    "id": 21,
+    "name": "Zohaib Yousuf",
+    "role": "Head Training & Mentorship",
+    "mem_image": "./extend/21.jpg"
+  },
+  {
+    "id": 22,
+    "name": "Aadesh Kumar",
+    "role": "Co-head Training & Mentorship",
+    "mem_image": "./extend/22.jpg"
+  },
+  {
+    "id": 23,
+    "name": "Muhammad Haider Ali",
+    "role": "Head SOP compliance",
+    "mem_image": "./extend/23.jpg"
+  }
+]

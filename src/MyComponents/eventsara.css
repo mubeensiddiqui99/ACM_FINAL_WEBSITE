@@ -2,8 +2,8 @@
   padding: 0% 15%;
 }
 
-.container-event{
-  width:auto;
+.container-event {
+  width: auto;
   margin: auto;
 }
 
@@ -92,4 +92,3 @@ a:focus {
   clear: both;
   display: table;
 }
-
