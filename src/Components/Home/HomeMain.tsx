@@ -1,10 +1,10 @@
 import React from "react";
-import "./Header1.css";
-import ACMFINAL from "../images/ACM FINAL.png";
+import "./HomeMain.css";
+import ACMFINAL from "../../images/ACM FINAL.png";
 import Carousel from "react-multi-carousel";
 import "react-multi-carousel/lib/styles.css";
-import data from "../data.json";
-import { events as EL } from "./events";
+import data from "../../data.json";
+import { events as EL } from "../events";
 
 const responsive = {
   superLargeDesktop: {
