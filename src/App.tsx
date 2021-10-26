@@ -1,8 +1,8 @@
 import React from "react";
 //import logo from './logo.svg';
 import "./App.css";
-import Navbar from "./MyComponents/Navbar";
-import Footer from "./MyComponents/Footer";
+import Navbar from "./Components/Navbar";
+import Footer from "./Components/Footer";
 import { BrowserRouter, Route, Switch } from "react-router-dom";
 import "tachyons/css/tachyons.min.css";
 import "bootstrap/dist/css/bootstrap.min.css";

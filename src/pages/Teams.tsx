@@ -1,5 +1,5 @@
 import React from "react";
-import { member as ML } from "./../MyComponents/member";
+import { member as ML } from "../Components/member";
 
 function Teams() {
   return (
