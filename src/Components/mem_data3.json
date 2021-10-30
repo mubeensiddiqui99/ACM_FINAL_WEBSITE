@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "name": "Mubeen Siddiqui",
+    "role": "Deputy Head Web & App(Technical)",
+    "mem_image": "./tech/dep1.jpeg"
+  },
+  {
+    "id": 2,
+    "name": "Ahsan Naqvi",
+    "role": "Deputy Head Web & App(Technical)",
+    "mem_image": "./tech/dep2.jpeg"
+  },
+  {
+    "id": 3,
+    "name": "Umair Siddiqui",
+    "role": "Member(Technical)",
+    "mem_image": "./tech/t1.jpeg"
+  },
+  {
+    "id": 4,
+    "name": "Usman Nizamani",
+    "role": "Member(Technical)",
+    "mem_image": "./tech/t2.jpeg"
+  },
+  {
+    "id": 5,
+    "name": "Syed Usman",
+    "role": "Member(Technical)",
+    "mem_image": "./tech/t3.jpeg"
+  },
+  {
+    "id": 6,
+    "name": "Ali Rehman",
+    "role": "Member(Technical)",
+    "mem_image": "./tech/t4.jpeg"
+  },
+  {
+    "id": 7,
+    "name": "Abdullah Ghori",
+    "role": "Member(Technical)",
+    "mem_image": "./tech/t5.jpeg"
+  },
+  {
+    "id": 8,
+    "name": "Sara",
+    "role": "Member(Technical)",
+    "mem_image": "./tech/t6.jpeg"
+  }
+]

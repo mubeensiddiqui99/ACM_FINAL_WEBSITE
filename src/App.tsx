@@ -1,21 +1,20 @@
-import React from 'react';
+import React from "react";
 //import logo from './logo.svg';
-import './App.css';
-import Navbar from './MyComponents/Navbar';
-import Footer from './MyComponents/Footer';
+import "./App.css";
+import Navbar from "./Components/Navbar";
+import Footer from "./Components/Footer";
 import { BrowserRouter, Route, Switch } from "react-router-dom";
-import 'tachyons/css/tachyons.min.css'
-import 'bootstrap/dist/css/bootstrap.min.css';
-import Home from './pages/Home';
-import Teams from './pages/Teams';
-import Events from './pages/Events';
-import CodersCup from './pages/CodersCup';
+import "tachyons/css/tachyons.min.css";
+import "bootstrap/dist/css/bootstrap.min.css";
+import Home from "./pages/Home";
+import Teams from "./pages/Teams";
+import Events from "./pages/Events";
+import CodersCup from "./pages/CodersCup";
 
-function App ()
-{
-  return(
+function App() {
+  return (
     <div className="aapp">
-    <Navbar />
+      <Navbar />
 
       <BrowserRouter>
         <Switch>
@@ -28,6 +27,6 @@ function App ()
 
       <Footer />
     </div>
-  )
+  );
 }
 export default App;
